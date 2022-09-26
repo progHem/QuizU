@@ -1,4 +1,4 @@
-# quiz_u
+# QuizU
 
 QuizU Application.
 
