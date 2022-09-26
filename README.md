@@ -4,8 +4,9 @@ QuizU Application.
 
 ## About Project
 
-This project iS done for Okoul challenge using flutter.
+This project is done for Okoul challenge using flutter.
 
+![stack Overflow](https://s5.gifyu.com/images/Group-10db3bb7823650c1e.png)
 ### Libraries Used:
 
 - flutter_svg (for svg pictures).
