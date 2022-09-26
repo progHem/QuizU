@@ -5,19 +5,8 @@ QuizU Application.
 ## Getting Started
 
 This project is a for Okoul challenge using flutter.
-  cupertino_icons: ^1.0.2
-  flutter_svg: ^1.1.5
-  phone_number: ^1.0.0
-  intl_phone_field: ^3.1.0
-  pinput: ^2.2.11
-  http: ^0.13.5
-  provider: ^6.0.3
-  shared_preferences: ^2.0.15
-  intl: ^0.17.0
-  share_plus: ^4.4.0
-  introduction_screen: ^3.0.2
 
-Libraries Used:
+### Libraries Used:
 
 - flutter_svg (for svg pictures).
 - phone_number (to validate phone number).
@@ -29,5 +18,7 @@ Libraries Used:
 - intl (for dataFormatting).
 - share_plus (to share text on other apps).
 - introduction_screen (to make an intro screen for app).
+
+<a href='https://drive.google.com/file/d/1l480IVjgHxlTpPWvumwOegnuY4KLQctL/view?usp=sharing'>Andriod Apk</a>
 
 All Requirements done correctly :)
