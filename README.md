@@ -2,7 +2,7 @@
 
 QuizU Application.
 
-## Getting Started
+## About Project
 
 This project is a for Okoul challenge using flutter.
 
