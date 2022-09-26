@@ -4,7 +4,7 @@ QuizU Application.
 
 ## About Project
 
-This project is a for Okoul challenge using flutter.
+This project iS done for Okoul challenge using flutter.
 
 ### Libraries Used:
 
