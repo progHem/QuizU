@@ -1,6 +1,6 @@
 # QuizU
 
-QuizU Application.
+Quiz Application.
 
 ## About Project
 
